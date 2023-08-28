@@ -1,0 +1,118 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.btn-outline-success
+{
+    color: #FF5F00;
+    border: 2px solid #FF5F00;
+}
+.btn-outline-success:hover
+{
+    background-color: #FF5F00;
+    border-color: #FF5F00;
+}
+.nav-link.active
+{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover
+{
+    color: #FF5F00;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: white;
+}
+.main
+{
+    background: url(cool-guy-good-mood-posing-blue-background-jumping.jpg) no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+    background-position: 50% 50%;
+}
+.main h1{
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+.main
+{
+    display: flex;
+    align-items: center;
+}
+.main .container .row
+{
+    justify-content: center;
+}
+.btn{
+    color: white;
+    background-color: #FF5F00;
+}
+.btn.btn-secondary.btn-lg
+{
+    color: #FF5F00;
+    background-color: transparent;
+    border-color: #FF5F00;
+}
+.btn-sigin-signup
+{
+    display: flex;
+    justify-content: space-around;
+
+}
+.btn:hover{
+    color: #FF5F00;
+    background-color: white;
+}
+.btn.btn-secondary.btn-lg:hover
+{
+    background-color: white;
+}
+.col-lg-7
+{
+    display: flex;
+    justify-content: center;
+}
+.col{
+    justify-content: center;
+    display: flex;
+}
+.container.text-center.ha
+{
+    background-color: rgb(239, 237, 237);
+    border-radius: 20px;
+}
+.card-footer button {
+    cursor: pointer;
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .card-footer button:hover {
+    background-color: #0062cc;
+  }
+  .col-md-4
+  {
+    display: flex;
+    align-items: center;
+  }
+  .container.text-center.hai
+  {
+    background-color: black;
+    border-radius: 20px;
+  }
+  .contact{
+    color: #FF5F00;
+  }
